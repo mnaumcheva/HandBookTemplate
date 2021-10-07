@@ -1,4 +1,4 @@
-= Smart Home Challenge Problem 
+= Template for requirements 
 //------------------------- configuration
 :imagesdir: images
 :icons: font
@@ -26,10 +26,10 @@ endif::[]
 ifndef::pdf-backend[]
 //------------------------------------ Badges --------
 //image:https://github.com/FormalRequirements/requirements-handbook/workflows/Check%20Markdown%20links/badge.svg[Check Markdown links,link="https://github.com/FormalRequirements/requirements-handbook/actions"]
-image:https://github.com/FormalRequirements/SmartHome/actions/workflows/bdd.yml/badge.svg[Tests, link="https://github.com/FormalRequirements/SmartHome/actions/workflows/bdd.yml"]
+image:https://github.com/FormalRequirements/HandBookTemplate/actions/workflows/bdd.yml/badge.svg[Tests, link="https://github.com/FormalRequirements/HandBookTemplate/actions/workflows/bdd.yml"]
 image:https://img.shields.io/badge/License-MIT-yellow.svg[License: MIT, link="https://opensource.org/licenses/MIT"]
-image:https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod[Gitpod ready-to-code ,link="https://gitpod.io/#https://github.com/FormalRequirements/SmartHome"]
-image:https://img.shields.io/badge/PDF-Download-blue[PDF download,link="https://github.com/FormalRequirements/SmartHome/blob/main/main.pdf"]
+image:https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod[Gitpod ready-to-code ,link="https://gitpod.io/#https://github.com/FormalRequirements/HandBookTemplate"]
+image:https://img.shields.io/badge/PDF-Download-blue[PDF download,link="https://github.com/FormalRequirements/HandBookTemplate/blob/main/main.pdf"]
 //------------------------------------ Badges --------
 endif::[]
 
