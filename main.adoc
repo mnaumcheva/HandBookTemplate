@@ -1,0 +1,46 @@
+:title: SmartHome Requirements
+:project: Project
+:version: 1.2
+:author: J.-M. Bruel
+:email: bruel@irit.fr
+:organization: IRIT/CNRS - University of Toulouse, France
+:icons: font
+//--------------------------- PDF version
+:doctype: book
+:title-page-background-image: image::pegs.svg[pdfwidth=60%]
+// :title-logo-image: image::pegs.svg[top=1%, align=left, pdfwidth=2.5in]
+:back-cover-image: image::pegs.svg[pdfwidth=160%]
+:method: pass:[<b>PEGS</b>]
+ifdef::pdf-backend[]
+:method: PEGS
+:title-page:
+endif::[]
+
+= {title}
+{author},{email}
+{version} -- {localdate}
+
+include::definitions.adoc[]
+// To avoid re-including the definitions file:
+:part:
+
+[NOTE]
+====
+This repository constitutes the requirements of the link:initialReqs.pdf[XYZ].
+It follows the method presented in the {HandbookPDF}[Handbook of requirements and business analysis].
+It uses the Asciidoc template available {companionGit}/blob/issue-14-Write_an_Asciidoc_template_for_PEGS/templates/asciidoc/book.adoc[here].
+====
+
+include::changelog.adoc[]
+
+toc::[]
+
+include::Goals.adoc[]
+
+include::Environment.adoc[]
+
+include::Project.adoc[]
+
+include::System.adoc[]
+
+

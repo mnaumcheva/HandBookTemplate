@@ -1,0 +1,9 @@
+Gemfile.lock
+main-template.adoc
+pom.xml
+.classpath
+.project
+.settings
+main.html
+.DS_Store
+.vscode

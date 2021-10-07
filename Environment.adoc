@@ -1,0 +1,77 @@
+//------------------------------------
+// ENVIRONMENT book
+//
+// Template for requirement:
+//[[ex-keyword]] 
+//`{counter:environment}`
+// Requirement
+
+// {missing} [Corresponding Artifact]
+//------------------------------------
+
+ifndef::part[]
+include::definitions.adoc[]
+endif::[]
+
+.Front matter
+[TIP]
+====
+// Title (whether or not on a separate title page).
+// Date of current publication and revision history.
+// Table of contents and any other appropriate tables, such as a table of illustrations. (But not the glossary, which is part of the contents, as section E.1.)
+toc::[] 
+// Copyright notice, distribution information, restrictions on distribution.
+// Approval information. 
+====
+
+== Environment
+
+=== E.1 Glossary
+
+This section defines the domain-specific terms used in this document.
+It also lists the icons used in this document.
+
+[[e1-terms]]
+==== `{counter:e1}` Terms
+
+Here is a list of terms' definitions in alphabetical order:
+
+[[e1-xyz]]{system}:: The system under development: a *xyz* ...
+
+==== `{counter:e1}` Icons
+
+Here is the list of significations for the icons used when tracing the implementation artifacts:
+
+//----------------------------------------------
+.Icons signification
+[cols="1,7",options="header"]
+|===
+| Icon | Signification
+//----------------------------------------------
+| {check}  | A precisely referenced artifact satisfying the requirement
+| {bug}    | An artifact not yet fully functional
+| {missing}| No corresponding artifact yet (requirement not satisfied)
+|=== 
+//----------------------------------------------
+
+=== E.2 Components
+
+{emptysec}
+
+=== E.3 Constraints
+
+{emptysec}
+
+=== E.4 Assumptions
+
+{emptysec}
+
+=== E.5 Effects
+
+{emptysec}
+
+=== E.6 Invariants
+
+{emptysec}
+
+

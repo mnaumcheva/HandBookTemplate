@@ -1,0 +1,41 @@
+//------------------------------------
+// SYSTEM book
+//
+// Template for requirement:
+//---- Requirement
+//[[sx-keyword]] 
+//`{counter:sx}`
+// Requirement
+
+// {missing} [Corresponding Artifact]
+//---- 
+//------------------------------------
+include::definitions.adoc[]
+
+== System
+
+=== S.1 Components
+
+{emptysec}
+
+=== S.2 Functionality
+
+{emptysec}
+
+=== S.3 Interfaces
+
+{emptysec}
+
+=== S.4 Detailed usage scenarios
+
+{emptysec}
+
+=== S.5 Prioritization
+
+{emptysec}
+
+=== S.6 Verification and acceptance criteria
+
+{emptysec}
+
+//---- 

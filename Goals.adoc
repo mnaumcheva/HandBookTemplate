@@ -1,0 +1,95 @@
+//------------------------------------
+// GOALS book
+//
+// Template for requirement:
+//---- Requirement
+//[[gx-keyword]] 
+//`{counter:gx}`
+// Requirement
+
+// {missing} [Corresponding Artifact]
+//---- 
+//------------------------------------
+
+ifndef::part[]
+:part:
+include::definitions.adoc[]
+endif::[]
+
+== Goals
+
+.Front matter
+[TIP]
+====
+// Title (whether or not on a separate title page).
+// Date of current publication and revision history.
+// Table of contents and any other appropriate tables, such as a table of illustrations. (But not the glossary, which is part of the contents, as section E.1.)
+toc::[] 
+// Copyright notice, distribution information, restrictions on distribution.
+// Approval information. 
+====
+
+=== G.1 Context and overall objective
+
+{emptysec}
+
+=== G.2 Current situation
+
+{emptysec}
+
+=== G.3 Expected benefits 
+
+{emptysec}
+
+=== G.4 Functionality overview
+
+//---- Requirement
+[[g4-phys-intrusion]]
+`{counter:g4}`
+The {system} must ...
+//---- 
+
+=== G.5 High-level usage scenarios 
+
+{emptysec}
+
+=== G.6 Limitations and exclusions 
+
+{emptysec}
+
+[[g7-]]
+=== G.7 Stakeholders and requirements sources
+
+Here is a non-exhaustive list of the stakeholders.
+
+//----------------------------------------------
+.Target side stakeholders
+[cols="1,1,3",,options="header"]
+|===
+| Stakeholder | Category | Comment 
+//----------------------------------------------
+| [[g7-bob]]Bob | User | Main user of the {system} ...
+|=== 
+//----------------------------------------------
+
+//----------------------------------------------
+.Production side stakeholders
+[cols="1,1,3",,options="header"]
+|===
+| Stakeholder    | Category | Comment 
+//----------------------------------------------
+| System Admin | Technical department | ...
+|===
+//----------------------------------------------
+
+// .Back matter
+// [TIP]
+// ====
+// // Title (whether or not on a separate title page).
+// // Date of current publication and revision history.
+// // Table of contents and any other appropriate tables, such as a table of illustrations. (But not the
+// // glossary, which is part of the contents, as section E.1.)
+// // Copyright notice, distribution information, restrictions on distribution.
+// // Approval information. 
+// // TBD list:: <<ref>>.
+// ====

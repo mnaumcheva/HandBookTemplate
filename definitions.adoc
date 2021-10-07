@@ -1,0 +1,35 @@
+//--------------------------- Glossary & Definitions
+// URLS
+// :companionURL: https://formalrequirements.github.io/requirements-handbook-companion
+// :HandbookPDF: http://se.ethz.ch/~meyer/down/requirements_handbook/REQUIREMENTS.pdf
+
+:github-repo: git@github.com:FormalRequirements/SmartHome.git
+:github-io: https://FormalRequirements.github.io/SmartHome
+
+
+// ICONS
+:check: icon:check-circle[]
+:bug: icon:bug[]
+:missing: icon:times-circle[]
+
+// GLOSSARY ENTRIES
+:companion: <<companion, Companion Book>>
+:Handbook:  <<Handbook, Handbook>>
+:method: pass:[<b>PEGS</b>]
+ifdef::pdf-backend[]
+:method: PEGS
+endif::[]
+:smartHome: <<smartHome,Smart Home>>
+:inhabitants: <<inhabitants,Inhabitants>>
+//:: <<>>
+
+// PERSONS ENTRIES
+:jmb: https://bit.ly/jmbruel[J.-M. Bruel]
+
+// TRICKS
+:emptysec: icon:warning[] Nothing available at this point.
+:toc: macro
+
+// Requirements
+:xyz: <<e1-xyz,XYZ>>
+:system: {xyz}

@@ -1,0 +1,67 @@
+//------------------------------------
+// PROJECT book
+//
+// Template for requirement:
+//[[ex-keyword]] 
+//`{counter:project}`
+// Requirement
+
+// {missing} [Corresponding Artifact]
+//------------------------------------
+== Project
+
+.Front matter
+[TIP]
+====
+// Title (whether or not on a separate title page).
+// Date of current publication and revision history.
+// Table of contents and any other appropriate tables, such as a table of illustrations. (But not the
+// glossary, which is part of the contents, as section E.1.)
+// Copyright notice, distribution information, restrictions on distribution.
+// Approval information. 
+====
+
+=== P.1 Roles
+
+{emptysec}
+
+=== P.2 Personnel characteristics and constraints
+
+{emptysec}
+
+{missing} [Corresponding Artifact]
+
+=== P.3 Imposed technical choices
+
+{emptysec}
+
+
+=== P.4 Schedule and milestones
+
+{emptysec}
+
+
+=== P.5 Tasks and deliverables
+
+{emptysec}
+
+=== P.6 Risk and mitigation analysis
+
+{emptysec}
+
+=== P.7 Requirements process and report
+
+{emptysec}
+
+.Back matter
+[TIP]
+====
+// Title (whether or not on a separate title page).
+// Date of current publication and revision history.
+// Table of contents and any other appropriate tables, such as a table of illustrations. (But not the
+// glossary, which is part of the contents, as section E.1.)
+// Copyright notice, distribution information, restrictions on distribution.
+// Approval information. 
+// TBD list:: <<p2-persons>>.
+====
+
