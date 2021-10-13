@@ -35,7 +35,7 @@ endif::[]
 
 WARNING: Work in progress!
 
-This repository constitutes the teplate for requirementsfollowing the approach described in the book: link:{hb-pdf}[{hb-title}].
+This repository constitutes the template for requirements, following the approach described in the book: link:{hb-pdf}[{hb-title}].
 
 The requirements book can be found in several forms:
 
