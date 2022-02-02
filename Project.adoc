@@ -21,29 +21,31 @@
 // Approval information. 
 ====
 
-=== P.1 Roles
+=== P.1 Roles and personnel
 
 {emptysec}
 
-=== P.2 Personnel characteristics and constraints
+=== P.2 Imposed technical choises
 
 {emptysec}
 
 {missing} [Corresponding Artifact]
 
-=== P.3 Imposed technical choices
+
+=== P.3 Schedule and milestones
 
 {emptysec}
 
 
-=== P.4 Schedule and milestones
+=== P.4 Tasks and deliverables
 
 {emptysec}
 
 
-=== P.5 Tasks and deliverables
+=== P.5 Required technology elements
 
 {emptysec}
+
 
 === P.6 Risk and mitigation analysis
 
